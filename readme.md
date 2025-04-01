@@ -52,15 +52,15 @@ An AI-powered Quiz Website built using **Django, TailwindCSS, Ollama, Llama3.2, 
 
 ## 📸 Screenshots
 ### Home Page
-![Home Page](![home](https://github.com/user-attachments/assets/21c3de3c-8dae-40b2-9caf-7aeb6cb2f139))
+![Home Page]((https://github.com/user-attachments/assets/21c3de3c-8dae-40b2-9caf-7aeb6cb2f139))
 ### Quiz Generation
-![Quiz Generation](![questions](https://github.com/user-attachments/assets/296ebacf-e3d3-44d6-bb6b-21a7982fe115))
+![Quiz Generation]((https://github.com/user-attachments/assets/296ebacf-e3d3-44d6-bb6b-21a7982fe115))
 ### Wrong Answer
-![Wrong Answer](![wrongquestion](https://github.com/user-attachments/assets/364d8dce-145c-487f-a207-d0acb32698ee))
+![Wrong Answer]((https://github.com/user-attachments/assets/364d8dce-145c-487f-a207-d0acb32698ee))
 ### History
-![History](![history](https://github.com/user-attachments/assets/d43e4743-0349-436d-81d4-af55ceb8710d))
+![History]((https://github.com/user-attachments/assets/d43e4743-0349-436d-81d4-af55ceb8710d))
 ### All Quiz
-![All Quiz](![history2](https://github.com/user-attachments/assets/11a1a5d8-5999-49aa-b941-564ff9c1026b))
+![All Quiz]((https://github.com/user-attachments/assets/11a1a5d8-5999-49aa-b941-564ff9c1026b))
 
 ## 📌 Future Enhancements
 - Add leaderboard and user progress tracking
