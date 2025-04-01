@@ -1,0 +1,96 @@
+{
+    "creator": "aditya08",
+    "topic": "Python Programming with 10 questions",
+    "questions": [
+        {
+            "Question_text": "What is the purpose of the for loop in Python?",
+            "options": [
+                "A. To execute a block of code once.",
+                "B. To execute a block of code repeatedly until a condition is met.",
+                "C. To jump to a specific line of code.",
+                "D. To store data in a variable."
+            ]
+        },
+        {
+            "Question_text": "What does the 'if' statement do in Python?",
+            "options": [
+                "A. To repeat a block of code.",
+                "B. To execute a block of code if a condition is met.",
+                "C. To jump to a specific line of code.",
+                "D. To store data in a variable."
+            ]
+        },
+        {
+            "Question_text": "What is the 'try-except' block used for in Python?",
+            "options": [
+                "A. To repeat a block of code.",
+                "B. To catch and handle exceptions that may occur during execution.",
+                "C. To jump to a specific line of code.",
+                "D. To store data in a variable."
+            ]
+        },
+        {
+            "Question_text": "What is the 'while' loop used for in Python?",
+            "options": [
+                "A. To execute a block of code once.",
+                "B. To execute a block of code repeatedly until a condition is met.",
+                "C. To jump to a specific line of code.",
+                "D. To store data in a variable."
+            ]
+        },
+        {
+            "Question_text": "What does the 'list' data type do in Python?",
+            "options": [
+                "A. To repeat a block of code.",
+                "B. To store multiple values in a single variable.",
+                "C. To jump to a specific line of code.",
+                "D. To execute a block of code if a condition is met."
+            ]
+        },
+        {
+            "Question_text": "What does the 'set' data type do in Python?",
+            "options": [
+                "A. To repeat a block of code.",
+                "B. To store unique values in a single variable.",
+                "C. To jump to a specific line of code.",
+                "D. To execute a block of code if a condition is met."
+            ]
+        },
+        {
+            "Question_text": "What does the 'dict' data type do in Python?",
+            "options": [
+                "A. To repeat a block of code.",
+                "B. To store key-value pairs in a single variable.",
+                "C. To jump to a specific line of code.",
+                "D. To execute a block of code if a condition is met."
+            ]
+        },
+        {
+            "Question_text": "What does the 'range' function do in Python?",
+            "options": [
+                "A. To repeat a block of code.",
+                "B. To generate a sequence of numbers starting from 0.",
+                "C. To jump to a specific line of code.",
+                "D. To store data in a variable."
+            ]
+        },
+        {
+            "Question_text": "What does the 'enumerate' function do in Python?",
+            "options": [
+                "A. To repeat a block of code.",
+                "B. To iterate over both index and value of a sequence.",
+                "C. To jump to a specific line of code.",
+                "D. To store data in a variable."
+            ]
+        },
+        {
+            "Question_text": "What does the 'input' function do in Python?",
+            "options": [
+                "A. To repeat a block of code.",
+                "B. To take input from the user.",
+                "C. To jump to a specific line of code.",
+                "D. To store data in a variable."
+            ]
+        }
+    ]
+}

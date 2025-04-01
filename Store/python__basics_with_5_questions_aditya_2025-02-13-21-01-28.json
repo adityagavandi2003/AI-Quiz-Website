@@ -1,0 +1,56 @@
+{
+    "creater": "aditya",
+    "topic": "Python basics with 5 questions",
+    "questions": [
+        {
+            "Question_text": "What is the print function in Python?",
+            "options": [
+                "A. Output a message",
+                "B. Output a value",
+                "C. Output multiple values",
+                "D. Output an error"
+            ],
+            "correct_answer": "B. Output a value"
+        },
+        {
+            "Question_text": "What does the variable 'x' represent in the following code: x = 5?",
+            "options": [
+                "A. The answer to an equation",
+                "B. A string of characters",
+                "C. An integer value",
+                "D. A floating point number"
+            ],
+            "correct_answer": "C. An integer value"
+        },
+        {
+            "Question_text": "What is the purpose of the 'if' statement in Python?",
+            "options": [
+                "A. To repeat a block of code",
+                "B. To skip to another part of the program",
+                "C. To make a decision based on conditions",
+                "D. To output a message"
+            ],
+            "correct_answer": "C. To make a decision based on conditions"
+        },
+        {
+            "Question_text": "What is the difference between '==', '!=', '>', '<', and '<=' operators in Python?",
+            "options": [
+                "A. They are used for string comparison",
+                "B. They are used for number comparison",
+                "C. They are used for logical operations",
+                "D. They are used for membership testing"
+            ],
+            "correct_answer": "B. They are used for number comparison"
+        },
+        {
+            "Question_text": "What is the purpose of the 'loop' in Python?",
+            "options": [
+                "A. To repeat a block of code",
+                "B. To skip to another part of the program",
+                "C. To make a decision based on conditions",
+                "D. To output a message"
+            ],
+            "correct_answer": "A. To repeat a block of code"
+        }
+    ]
+}

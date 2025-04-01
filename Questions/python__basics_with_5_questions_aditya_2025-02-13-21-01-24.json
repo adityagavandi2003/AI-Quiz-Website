@@ -1,0 +1,56 @@
+{
+    "creator": "aditya",
+    "topic": "Python basics with 5 questions",
+    "questions": [
+        {
+            "Question text": "What is the print function in Python?",
+            "options": [
+                "A. Print a statement",
+                "B. Print multiple statements",
+                "C. Print to screen",
+                "D. Print variables"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the 'if' statement in Python?",
+            "options": [
+                "A. To repeat a block of code",
+                "B. To skip a block of code",
+                "C. To execute a block of code if a condition is true",
+                "D. To exit a program"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "What is the difference between '==' and 'is' in Python?",
+            "options": [
+                "A. == checks for equality, while is checks for identity",
+                "B. == checks for identity, while is checks for equality",
+                "C. == checks for type, while is checks for value",
+                "D. == checks for value, while is checks for type"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the 'for' loop in Python?",
+            "options": [
+                "A. To repeat a block of code while a condition is true",
+                "B. To skip a block of code while a condition is false",
+                "C. To execute a block of code once when a condition is met",
+                "D. To exit a program"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the 'try' and 'except' blocks in Python?",
+            "options": [
+                "A. To repeat a block of code while a condition is true",
+                "B. To skip a block of code while a condition is false",
+                "C. To handle exceptions that may occur during execution",
+                "D. To exit a program"
+            ],
+            "correct_answer": "C"
+        }
+    ]
+}

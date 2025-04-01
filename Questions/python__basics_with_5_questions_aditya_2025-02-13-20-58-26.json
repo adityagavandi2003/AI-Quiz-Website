@@ -1,0 +1,56 @@
+{
+    "creator": "aditya",
+    "topic": "Python basics with 5 questions",
+    "questions": [
+        {
+            "Question text": "What is the basic syntax of Python?",
+            "options": [
+                "print function",
+                "if-else statement",
+                "for loop",
+                "while loop"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What does the '==' operator do in Python?",
+            "options": [
+                "Assigns value to variable",
+                "Compares values of two variables",
+                "Creates new list",
+                "Prints output"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "How do you iterate over a list in Python?",
+            "options": [
+                "Using for loop",
+                "Using while loop",
+                "Using if-else statement",
+                "Using range function"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the 'try' block in Python?",
+            "options": [
+                "To assign value to variable",
+                "To compare values of two variables",
+                "To handle exceptions and errors",
+                "To print output"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "How do you define a function in Python?",
+            "options": [
+                "Using def keyword followed by parameters",
+                "Using class keyword followed by methods",
+                "Using print function",
+                "Using if-else statement"
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

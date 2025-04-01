@@ -1,0 +1,106 @@
+{
+    "creater": "aditya",
+    "topic": "Python Programming with 10 questions",
+    "questions": [
+        {
+            "Question_text": "What is the primary use of Python?",
+            "options": [
+                "A. Web Development",
+                "B. Data Analysis",
+                "C. Machine Learning",
+                "D. All of the Above"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "Question_text": "Which of the following is not a built-in data type in Python?",
+            "options": [
+                "A. String",
+                "B. Integer",
+                "C. Float",
+                "D. List"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question_text": "What is the output of the expression 5 / 'a'?",
+            "options": [
+                "A. 0.0",
+                "B. 5.0",
+                "C. TypeError",
+                "D. NaN"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question_text": "Which function in Python is used to create a new dictionary?",
+            "options": [
+                "A. list()",
+                "B. dict()",
+                "C. tuple()",
+                "D. set()"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question_text": "What is the purpose of the 'or' operator in Python?",
+            "options": [
+                "A. To concatenate strings",
+                "B. To compare values",
+                "C. To create a new variable",
+                "D. To evaluate a condition"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "Question_text": "Which of the following is not a type of loop in Python?",
+            "options": [
+                "A. for loop",
+                "B. while loop",
+                "C. recursive function",
+                "D. switch statement"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "Question_text": "What is the output of the expression 1 + 'a'?",
+            "options": [
+                "A. '1a'",
+                "B. '1+a'",
+                "C. TypeError",
+                "D. NaN"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question_text": "Which function in Python is used to get the index of an element in a list?",
+            "options": [
+                "A. index()",
+                "B. find()",
+                "C. enumerate()",
+                "D. search()"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question_text": "What is the purpose of the 'try' block in Python?",
+            "options": [
+                "A. To catch exceptions",
+                "B. To execute a function",
+                "C. To loop indefinitely",
+                "D. To create a new variable"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question_text": "Which of the following is not a built-in function in Python?",
+            "options": [
+                "A. abs()",
+                "B. len()",
+                "C. max()",
+                "D. gcd()"
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

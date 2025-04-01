@@ -1,0 +1,106 @@
+{
+    "creator": "aditya08",
+    "topic": "Python Programming with 10 questions",
+    "questions": [
+        {
+            "Question_text": "What is the most commonly used Python version?",
+            "options": [
+                "A. Python 2.x",
+                "B. Python 3.x",
+                "C. Python 4.x",
+                "D. Python 5.x"
+            ],
+            "correct_answer": "B. Python 3.x"
+        },
+        {
+            "Question_text": "What is the purpose of the 'print' function in Python?",
+            "options": [
+                "A. To define a variable",
+                "B. To print output to the screen",
+                "C. To read input from the user",
+                "D. To store data in memory"
+            ],
+            "correct_answer": "B. To print output to the screen"
+        },
+        {
+            "Question_text": "What is the difference between '==' and 'is' operators in Python?",
+            "options": [
+                "A. Both are used for comparison",
+                "B. '==' checks type, while 'is' checks identity",
+                "C. '==' checks identity, while 'is' checks type",
+                "D. Both are used to assign values"
+            ],
+            "correct_answer": "B. '==' checks type, while 'is' checks identity"
+        },
+        {
+            "Question_text": "What is the purpose of the 'try-except' block in Python?",
+            "options": [
+                "A. To define a function",
+                "B. To handle errors and exceptions",
+                "C. To loop through data",
+                "D. To store data in memory"
+            ],
+            "correct_answer": "B. To handle errors and exceptions"
+        },
+        {
+            "Question_text": "What is the difference between 'list' and 'tuple' in Python?",
+            "options": [
+                "A. A list can be modified, while a tuple cannot",
+                "B. Both are immutable data structures",
+                "C. A list has more elements than a tuple",
+                "D. A tuple is a subset of a list"
+            ],
+            "correct_answer": "A. A list can be modified, while a tuple cannot"
+        },
+        {
+            "Question_text": "What is the purpose of the 'lambda' function in Python?",
+            "options": [
+                "A. To define a class",
+                "B. To create an anonymous function",
+                "C. To import modules",
+                "D. To assign values to variables"
+            ],
+            "correct_answer": "B. To create an anonymous function"
+        },
+        {
+            "Question_text": "What is the difference between 'for' and 'while' loops in Python?",
+            "options": [
+                "A. A for loop iterates over a sequence, while a while loop checks a condition",
+                "B. Both are used to repeat a block of code",
+                "C. A for loop is faster than a while loop",
+                "D. A while loop is more secure than a for loop"
+            ],
+            "correct_answer": "A. A for loop iterates over a sequence, while a while loop checks a condition"
+        },
+        {
+            "Question_text": "What is the purpose of the 'import' statement in Python?",
+            "options": [
+                "A. To define a function",
+                "B. To import modules and functions",
+                "C. To assign values to variables",
+                "D. To store data in memory"
+            ],
+            "correct_answer": "B. To import modules and functions"
+        },
+        {
+            "Question_text": "What is the difference between 'list' and 'set' in Python?",
+            "options": [
+                "A. A list can be modified, while a set cannot",
+                "B. Both are unordered data structures",
+                "C. A list has more elements than a set",
+                "D. A set is a subset of a list"
+            ],
+            "correct_answer": "A. A list can be modified, while a set cannot"
+        },
+        {
+            "Question_text": "What is the purpose of the 'os' module in Python?",
+            "options": [
+                "A. To define a class",
+                "B. To interact with the operating system",
+                "C. To create an anonymous function",
+                "D. To assign values to variables"
+            ],
+            "correct_answer": "B. To interact with the operating system"
+        }
+    ]
+}

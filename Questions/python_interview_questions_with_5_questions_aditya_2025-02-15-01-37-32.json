@@ -1,0 +1,50 @@
+{
+    "creator": "aditya",
+    "topic": "Python Interview Questions with 5 questions",
+    "questions": [
+        {
+            "Question_text": "What is the difference between == and === in Python?",
+            "options": [
+                "A. Both are used for comparison",
+                "B. === is not a valid operator in Python"
+            ],
+            "correct_answer": "A. Both are used for comparison"
+        },
+        {
+            "Question_text": "How do you iterate over a dictionary in Python?",
+            "options": [
+                "A. Using the .keys() method",
+                "B. Using the .values() method",
+                "C. Using the .items() method"
+            ],
+            "correct_answer": "C. Using the .items() method"
+        },
+        {
+            "Question_text": "What is the purpose of the enumerate function in Python?",
+            "options": [
+                "A. To get the index and value of an iterable",
+                "B. To get the length of an iterable",
+                "C. To check if an iterable is empty"
+            ],
+            "correct_answer": "A. To get the index and value of an iterable"
+        },
+        {
+            "Question_text": "How do you handle exceptions in Python?",
+            "options": [
+                "A. Using try/except blocks",
+                "B. Using finally blocks",
+                "C. Using if-else statements"
+            ],
+            "correct_answer": "A. Using try/except blocks"
+        },
+        {
+            "Question_text": "What is the difference between list and tuple in Python?",
+            "options": [
+                "A. List is mutable while tuple is immutable",
+                "B. List is immutable while tuple is mutable",
+                "C. Both are equal"
+            ],
+            "correct_answer": "A. List is mutable while tuple is immutable"
+        }
+    ]
+}

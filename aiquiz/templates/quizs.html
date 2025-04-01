@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% if quiz %}
+<section class='flex flex-col justify-center items-center gap-6'>
+    <div class="btn w-full flex justify-between items-center">
+        <h2>All Quizs</h2>
+        <a href="{% url "completequiz" %}" class='bg-blue-600 px-4 rounded-lg py-2'>Solve Quiz</a>
+    </div>
+<div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+    <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+            <tr>
+                <th scope="col" class="px-6 py-3">
+                    Sr. No.
+                </th>
+                <td class="px-6 py-4">
+                    Creator
+                </td>
+                <td class="px-6 py-4">
+                    Topic
+                </td>
+                <td class="px-6 py-4">
+                    View
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            {% for content in quiz %}
+            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600 cursor-pointer">
+                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                   {{forloop.counter}}
+                </th>
+                <td class="px-6 py-4">
+                    {{ content.creater|upper }}
+                </td>
+                <td class="px-6 py-4">
+                    {{ content }}
+                </td>
+                <td class="px-6 py-4">
+                    <a href="{% url "quizopen" content.id %}">Open</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}
+</section>
+{% endblock %}
